@@ -18,6 +18,13 @@
 
 
 
-:sound: Get notified:
+:sound: Get notified when the movie is available:
 
 [GettingStarted - pygame wiki](https://www.pygame.org/wiki/GettingStarted#PygameInstallation)
+
+
+
+:writing_hand:Example :
+
+Change S02e05 to S02e09 and you will get an infinite loop, because last episode of the season is 8.
+
