@@ -2,7 +2,7 @@ import urllib.parse
 from pygame import mixer
 import urllib.request
 import time
-url001= "https://1337x.to/search/mandalorian+s02e09+2160p/1/"
+url001= "https://1337x.to/search/mandalorian+s02e05+2160p/1/"
 """ url002= "https://rarbgp2p.org/torrents.php?search=mandalorian+s02e05+2160p"
 url003= "https://rarbgp2p.org/torrents.php?search=mandalorian+s02e05+2160p" """
 user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11'
